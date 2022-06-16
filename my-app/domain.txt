@@ -1,0 +1,1 @@
+domain: nft-collection-tutorial-sigma.vercel.app
